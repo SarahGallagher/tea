@@ -1,4 +1,4 @@
-# Beginners Tutorial for Making Tea
+# Beginner's Tutorial for Making Tea
 
 Making tea can be very simple! To brew your very first tea, you only need:
 
@@ -7,15 +7,17 @@ Making tea can be very simple! To brew your very first tea, you only need:
 - a kettle
 - a clean mug
 
-## Tea
+## What is tea?
 Tea is made from dried tea leaves. When you soak-- or "steep"-- tea leaves in hot water, you infuse your water with the flavour from the tea leaves. It is a very popular, inexpensive drink that can be enjoyed hot or cold. 
 
-You will typically find tea sold in two different ways: loose leaf, and prepackaged tea bags. 
+Tea can contain caffeine: if you are caffeine sensitive, you should read the packaging before you purchase.
+
+You will usually find tea sold in two different ways: loose leaf, and prepackaged tea bags. 
 
 ### Loose leaf
 This tea is sold "loose" (i.e. not in prepackaged bags). Loose leaf tea is a great option if you want to customize your tea's strength and flavour. 
 
-Since this tea is sold "loose", you'll need a way to prevent the physical tea leaves or particles from getting into your finished drink. This is usually done with an tea infuser or a small mesh strainer. These are typically very inexpensive and reusable.
+Since this tea is sold "loose", you'll need a way to prevent the physical tea leaves or particles from getting into your finished drink. This is usually done with an tea infuser, or a small mesh strainer. These are typically inexpensive and reusable. There are also travel mugs with built in infusers.
 
 ### Prepackaged tea bags
 A common way to purchase tea is in prepackaged tea bags. These teas come in different flavours, and the tea bags themselves are usually compostable. 
@@ -40,29 +42,27 @@ Note: If you're unsure how hot your water should be, a common method is to boil 
 4. Steep your tea (i.e. leave the tea in the water) for as long as the directions call for. Depending on how strong you like your tea, you can steep your tea for slightly longer, or shorter, then the directions call for. 
     - Note: depending on the quality and type of tea you're using, your tea may taste bitter if you steep it for too long.
 
-5. Take the tea infuser, or tea bag, out of your mug.
+5. Take the tea infuser, or tea bag, out of your mug. You can compost the tea leaves. If you used a tea bag, you can usually compost the entire bag (check for and remove any staples or non-compostable items). 
 
 6. Optional: if you don't want to drink your tea black, you can add some additional ingredients. Common additions are milk, cream, sugar, or honey. 
 
-7. Wait until your tea is cool enough to drink.If you'd prefer your tea cold, you can refrigerate or place ice cubes in your steeped tea to cool it down. Note that placing ice cubes in your tea may dilute the flavour. 
+7. Wait until your tea is cool enough to drink. If you'd prefer your tea cold, you can refrigerate or place ice cubes in your steeped tea to cool it down. Note that placing ice cubes in your tea may dilute the flavour. 
 
-## Different types of tea
-There are many different tea blends and flavours available! 
+## Types of tea
+Though most tea comes from the same plant, the type of tea is determined by what part of the plant is used and how it's processed. 
 
-Common tea types:
+You can typically determine the type of tea by looking it's steeped colour. Common tea types are:
 - black
 - white
 - green
 
-Common tea blends or flavours:
-- herbal
+You'll also see different blends and flavours of tea. Common ones are:
+- herbal 
 - earl grey
 - mint
 - chai or spice
 - fruity blends
 
-Tea can contain caffeine. If you are caffeine sensitive, you should read the packaging before you purchase.
-
-
+You may find some blends that do not contain actual tea leaves, but will contain other plant or herbal mixes instead. These mixes are usually still marketed as tea. 
 
 
