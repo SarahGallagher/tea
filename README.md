@@ -10,7 +10,7 @@ Making tea can be very simple! To brew your very first tea, you'll only need:
 ## What is tea?
 Tea is made from dried tea leaves. When you soak-- or "steep"-- tea leaves in hot water, you infuse your water with the flavour from the tea leaves. It is a very popular, inexpensive drink that can be enjoyed hot or cold. 
 
-    Tea can contain caffeine. You should always read the packaging if you are caffeine sensitive.
+>Tea can contain caffeine. You should always read the packaging if you are caffeine sensitive.
 
 You will usually find tea sold in two different ways: loose leaf, and prepackaged tea bags. 
 
@@ -27,7 +27,7 @@ You do not need an infuser/strainer if you use prepackaged tea bags.
 ## Making your tea
 Before you begin, you should read the instructions for your tea to know how hot your water should be and how long you should steep your tea for (i.e. how long your tea bag or infuser should sit in your boiled water).
 
-    If you're unsure how hot your water should be, a common method is to boil your water in a kettle, then let it cool in the kettle for about 1-3 minutes before you pour it into your mug. This will work fine for most tea.
+>If you're unsure how hot your water should be, a common method is to boil your water in a kettle, then let it cool in the kettle for about 1-3 minutes before you pour it into your mug. This will work fine for most tea.
 
 
 1. Boil your water in an electric or stove-top kettle.
