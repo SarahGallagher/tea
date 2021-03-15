@@ -17,7 +17,7 @@ You will usually find tea sold in two different ways: loose leaf, and prepackage
 ### Loose leaf
 This tea is sold "loose" (i.e. not in prepackaged bags). Loose leaf tea is a great option if you want to customize your tea's strength and flavour. 
 
-Since this tea is sold "loose", you'll need a way to prevent the physical tea leaves or particles from getting into your finished drink. This is usually done with an tea infuser, or a small mesh strainer. These are typically inexpensive and reusable. There are also travel mugs with built in infusers.
+Since this tea is sold "loose", you'll need a way to prevent the physical tea leaves or particles from getting into your finished drink. This is usually done with an tea infuser, or a small mesh strainer. These are typically inexpensive and reusable. You can also purchase mugs with built in, resuable infusers. 
 
 ### Prepackaged tea bags
 A common way to purchase tea is in prepackaged tea bags. These teas come in different flavours, and the tea bags themselves are usually compostable. 
